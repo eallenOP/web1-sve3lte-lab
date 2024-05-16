@@ -1,14 +1,22 @@
-<script></script>
+<script>
+    let person = {
+        firstName: "Jane",
+        lastName: "Doe",
+        age: 27,
+        location: "Dunedin",
+        occupation: "Designer"
+    }
+</script>
 
 <dl>
     <dt>First Name</dt>
-    <dd>Joe</dd>
+    <dd>{person.firstName}</dd>
     <dt>Last Name</dt>
-    <dd>Bloggs</dd>
+    <dd>{person.lastName}</dd>
     <dt>Age</dt>
-    <dd>25</dd>
+    <dd>{person.age}</dd>
     <dt>Location</dt>
-    <dd>London</dd>
+    <dd>{person.location}</dd>
     <dt>Occupation</dt>
-    <dd>Developer</dd>
+    <dd>{person.occupation}</dd>
 </dl>
