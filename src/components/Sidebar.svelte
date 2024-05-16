@@ -1,11 +1,5 @@
 <script>
-    let navItems = [
-        { text: "Home", href: "/" },
-        { text: "About", href: "/about" },
-        { text: "My Cards", href: "/cards" },
-        { text: "Contact", href: "/contact" },
-        { text: "Cats", href: "/cats" },
-    ];
+    export let navItems;
 </script>
 
 <nav>

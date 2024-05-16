@@ -12,5 +12,7 @@
     section {
         display: flex;
         border: 1px solid black;
+        padding: 1.5em;
+        gap: 1em;
     }
 </style>
