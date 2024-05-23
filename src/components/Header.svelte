@@ -1,7 +1,11 @@
 
   <h1>Welcome to SvelteKit</h1>
-  <p>
-    Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation
-  </p>
-  <a href="/blog">Blog page</a>
+  <nav>
+    <ul>
+      <li><a href="/profile">My profile</a></li>
+      <li><a href="/cards">My card collection</a></li>
+      <li><a href="/blog">Blog page</a></li>
+    </ul>
+  </nav>
+  
 
