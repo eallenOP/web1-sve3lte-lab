@@ -1,0 +1,1 @@
+<h1>Manage my profile picture</h1>

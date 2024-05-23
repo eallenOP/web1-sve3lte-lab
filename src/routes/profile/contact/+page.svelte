@@ -1,0 +1,3 @@
+<h1>Contact page</h1>
+
+<p>My contact details</p>
